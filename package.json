@@ -1,7 +1,7 @@
 {
     "name": "Xenonganteng/PhatomixBails",
     "version": "1.7.3",
-    "description": "WhatsApp Modified By Kaiross",
+    "description": "WhatsApp Modified By Xenon",
     "keywords": [
         "whatsapp-baileys"
     ],
@@ -10,7 +10,7 @@
         "url": "https://github.com/tenka-san/WaBails"
     },
     "license": "MIT",
-    "author": "7Kaiross - Determinator",
+    "author": "Xenon - Determinator",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
@@ -45,7 +45,7 @@
         "futoin-hkdf": "^1.5.1",
         "libphonenumber-js": "^1.10.20",
         "lodash": "^4.17.21",
-        "libsignal": "github:NullSex-Area/libsignal-node",
+        "libsignal": "https://github.com/Xenonganteng-Area/libsignal-node",
         "music-metadata": "^7.12.3",
         "node-cache": "^5.1.2",
         "node-fetch": "^2.6.1",
