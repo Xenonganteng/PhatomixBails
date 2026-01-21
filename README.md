@@ -8,7 +8,7 @@
 ## Usage
 ```json
 "depencies": {
-  "@whiskeysockets/baileys": "github:Xenon/PhatomixBails"
+  "@whiskeysockets/baileys": "github:Xenon/Bail"
 }
 ```
 ## Import
